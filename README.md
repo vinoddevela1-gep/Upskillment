@@ -2,6 +2,7 @@
 useful links at one place for learning and monitoring status - Need to enhance as a websit
 
 ## Learning Path - 50Hrs
+
 | Name  | Link  | Type  | Comments   |
 | ------------ | ------------ | ------------ | ------------ |
 | Python programming |   https://www.udemy.com/course/complete-python-bootcamp/|  Paid | Udemy |
